@@ -1,2 +1,1 @@
-# entregaGas
-sitema de entrega de gas
+Sistema de entrega de Gas
